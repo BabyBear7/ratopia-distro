@@ -1,0 +1,31 @@
+{
+  "$schema": "file:///D:/helios/Ratopia/distro/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Ratopia (Minecraft 1.21.4)",
+    "description": "Ratopia Running Minecraft 1.21.4 (Fabric v0.19.1)",
+    "icon": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/launcher.png",
+    "address": "ratopia.servera.cloud:25565",
+    "discord": {
+      "shortId": "1493276909369298985",
+      "largeImageText": "쥐락펴락 서버",
+      "largeImageKey": "img"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "fabric": {
+    "version": "0.19.1"
+  },
+  "untrackedFiles": [
+    {
+        "appliesTo": ["files"],
+        "patterns": [
+          "options.txt",
+          "config/*",
+          "config/**/*",
+          "servers.dat"
+        ]
+    }
+  ]
+}

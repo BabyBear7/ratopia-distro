@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///D:/helios/Ratopia/distro/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "1493276909369298985",
+      "smallImageText": "쥐락펴락",
+      "smallImageKey": "img"
+    }
+  }
+}

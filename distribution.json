@@ -1,0 +1,217 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "1493276909369298985",
+    "smallImageText": "쥐락펴락",
+    "smallImageKey": "img"
+  },
+  "servers": [
+    {
+      "id": "Ratopia-1.21.4",
+      "name": "Ratopia (Minecraft 1.21.4)",
+      "description": "Ratopia Running Minecraft 1.21.4 (Fabric v0.19.1)",
+      "icon": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/launcher.png",
+      "version": "1.0.0",
+      "address": "ratopia.servera.cloud:25565",
+      "minecraftVersion": "1.21.4",
+      "discord": {
+        "shortId": "1493276909369298985",
+        "largeImageText": "쥐락펴락 서버",
+        "largeImageKey": "img"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.19.1",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1967512,
+            "MD5": "4a319fc1f3a8a9c354aad538858eadb1",
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/repo/lib/net/fabricmc/fabric-loader/0.19.1/fabric-loader-0.19.1.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.4-fabric-0.19.1",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "15d080f56614aa2ea1d6cd7dcb6c1f79",
+                "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/repo/versions/1.21.4-fabric-0.19.1/1.21.4-fabric-0.19.1.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.1+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1540025,
+                "MD5": "029143df2fceae74b8d606fba0b5605b",
+                "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/repo/lib/net/fabricmc/sponge-mixin/0.17.1+mixin.0.8.7/sponge-mixin-0.17.1+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.4",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 701826,
+                "MD5": "d0f4187a62328d4a95f3428434efbd48",
+                "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "io.github.kosmx.emotes:emotecraft:2.5.8@jar",
+          "name": "Emotecraft",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1259819,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/fabricmods/required/emotecraft-fabric-for-MC1.21.4-2.5.8.jar",
+            "MD5": "ecbcffd1aa9d83847e00da62fc45d9b3"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.119.4+1.21.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2149128,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "MD5": "128a8d042180e7c92567342e21a21a6d"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2682702,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "MD5": "59d373e4874efbcb8fb426bdefa588d9"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.4-6.0.0-beta.47@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3514384,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/fabricmods/optionalon/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "MD5": "3893e727701bc66b4f3dbd80a434282d"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.hyfata.najoan:koreanpatch:1.9.5+mc1.21.3@jar",
+          "name": "Korean Patch",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 595769,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.5+mc1.21.3.jar",
+            "MD5": "f5c52ca25f04821fd25a205fa870e1bf"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1306799,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "MD5": "28922a78d1876ee062e3265f10abcc46"
+          }
+        },
+        {
+          "id": "BSL_v10.1.1.zip",
+          "name": "BSL_v10.1.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 1125052,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/shaderpacks/BSL_v10.1.1.zip",
+            "MD5": "67b0a2d855e91f3578af7a4336e537f0",
+            "path": "shaderpacks/BSL_v10.1.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryReimagined_r5.7.1.zip",
+          "name": "ComplementaryReimagined_r5.7.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 522970,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+            "MD5": "bc5f557bb6844d27e7b7891170544ea9",
+            "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.7.1.zip",
+          "name": "ComplementaryUnbound_r5.7.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 522973,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.7.1.zip",
+            "MD5": "b535d194c7115b360860e226c65ae3f2",
+            "path": "shaderpacks/ComplementaryUnbound_r5.7.1.zip"
+          }
+        }
+      ]
+    }
+  ]
+}
