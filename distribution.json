@@ -12,7 +12,7 @@
       "name": "Ratopia (Minecraft 1.21.4)",
       "description": "Ratopia Running Minecraft 1.21.4 (Fabric v0.19.1)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/launcher.png",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "address": "ratopia.servera.cloud",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -196,9 +196,20 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5250,
+            "size": 5307,
             "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "Clean Connected Glass.zip",
+          "name": "Clean Connected Glass.zip",
+          "type": "File",
+          "artifact": {
+            "size": 343093,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/resourcepacks/Clean%20Connected%20Glass.zip",
+            "MD5": "feac24e7b3d6867e47d995d6b4aea2d6",
+            "path": "resourcepacks/Clean Connected Glass.zip"
           }
         },
         {
