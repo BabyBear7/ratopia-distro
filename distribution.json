@@ -12,7 +12,7 @@
       "name": "Ratopia (Minecraft 1.21.4)",
       "description": "Ratopia Running Minecraft 1.21.4 (Fabric v0.19.1)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/launcher.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "ratopia.servera.cloud",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -114,6 +114,19 @@
               }
             }
           ]
+        },
+        {
+          "id": "me.pepperbell:continuity:3.0.0+1.21.4@jar",
+          "name": "Continuity",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1001061,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/fabricmods/optionalon/continuity-3.0.0+1.21.4.jar",
+            "MD5": "cb5480ac95db653d5376ec1b41797b56"
+          },
+          "required": {
+            "value": false
+          }
         },
         {
           "id": "io.github.kosmx.emotes:emotecraft:2.5.8@jar",
