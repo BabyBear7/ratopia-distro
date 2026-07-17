@@ -12,7 +12,7 @@
       "name": "Ratopia (Minecraft 1.21.4)",
       "description": "Ratopia Running Minecraft 1.21.4 (Fabric v0.19.1)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/launcher.png",
-      "version": "1.0.4",
+      "version": "1.0.5",
       "address": "ratopia.servera.cloud",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -196,7 +196,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5307,
+            "size": 5319,
             "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/options.txt",
             "path": "options.txt"
           }

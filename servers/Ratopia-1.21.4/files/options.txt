@@ -51,7 +51,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["fabric","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["fabric","continuity:glass_pane_culling_fix","file/Clean Connected Glass.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:ko_kr
