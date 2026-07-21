@@ -12,7 +12,7 @@
       "name": "Ratopia (Minecraft 1.21.4)",
       "description": "Ratopia Running Minecraft 1.21.4 (Fabric v0.19.1)",
       "icon": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/launcher.png",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "ratopia.servera.cloud",
       "minecraftVersion": "1.21.4",
       "discord": {
@@ -189,6 +189,116 @@
             "size": 1306799,
             "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
+          }
+        },
+        {
+          "id": "Aircraft.emotecraft",
+          "name": "Aircraft.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 93049,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Aircraft.emotecraft",
+            "path": "emotes/Aircraft.emotecraft"
+          }
+        },
+        {
+          "id": "Brakedance.emotecraft",
+          "name": "Brakedance.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 74488,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Brakedance.emotecraft",
+            "path": "emotes/Brakedance.emotecraft"
+          }
+        },
+        {
+          "id": "Heavy blow of the stand (Multiverse) (JoJo).emotecraft",
+          "name": "Heavy blow of the stand (Multiverse) (JoJo).emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 89287,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Heavy%20blow%20of%20the%20stand%20(Multiverse)%20(JoJo).emotecraft",
+            "path": "emotes/Heavy blow of the stand (Multiverse) (JoJo).emotecraft"
+          }
+        },
+        {
+          "id": "Jiggle your ass (Dance).emotecraft",
+          "name": "Jiggle your ass (Dance).emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 81524,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Jiggle%20your%20ass%20(Dance).emotecraft",
+            "path": "emotes/Jiggle your ass (Dance).emotecraft"
+          }
+        },
+        {
+          "id": "Lay on your belly.emotecraft",
+          "name": "Lay on your belly.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 59789,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Lay%20on%20your%20belly.emotecraft",
+            "path": "emotes/Lay on your belly.emotecraft"
+          }
+        },
+        {
+          "id": "Mouse-Sosisk.emotecraft",
+          "name": "Mouse-Sosisk.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 44600,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Mouse-Sosisk.emotecraft",
+            "path": "emotes/Mouse-Sosisk.emotecraft"
+          }
+        },
+        {
+          "id": "Naruto Run (Movement) (Multiverse) (Naruto).emotecraft",
+          "name": "Naruto Run (Movement) (Multiverse) (Naruto).emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 68184,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Naruto%20Run%20(Movement)%20(Multiverse)%20(Naruto).emotecraft",
+            "path": "emotes/Naruto Run (Movement) (Multiverse) (Naruto).emotecraft"
+          }
+        },
+        {
+          "id": "Shepherd is sleeping.emotecraft",
+          "name": "Shepherd is sleeping.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 78910,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Shepherd%20is%20sleeping.emotecraft",
+            "path": "emotes/Shepherd is sleeping.emotecraft"
+          }
+        },
+        {
+          "id": "Shepherd lies.emotecraft",
+          "name": "Shepherd lies.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 97332,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Shepherd%20lies.emotecraft",
+            "path": "emotes/Shepherd lies.emotecraft"
+          }
+        },
+        {
+          "id": "Sit Adorably.emotecraft",
+          "name": "Sit Adorably.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 72538,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Sit%20Adorably.emotecraft",
+            "path": "emotes/Sit Adorably.emotecraft"
+          }
+        },
+        {
+          "id": "Sitting with knees to the chest.emotecraft",
+          "name": "Sitting with knees to the chest.emotecraft",
+          "type": "File",
+          "artifact": {
+            "size": 109012,
+            "url": "https://raw.githubusercontent.com/BabyBear7/ratopia-distro/main/servers/Ratopia-1.21.4/files/emotes/Sitting%20with%20knees%20to%20the%20chest.emotecraft",
+            "path": "emotes/Sitting with knees to the chest.emotecraft"
           }
         },
         {
